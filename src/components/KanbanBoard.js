@@ -9,7 +9,7 @@ import { ReactComponent as PriorityMedium } from './assets/Img - Medium Priority
 import { ReactComponent as PriorityLow } from './assets/Img - Low Priority.svg';
 import { ReactComponent as PriorityUrgentColor } from './assets/SVG - Urgent Priority colour.svg';
 import { ReactComponent as PriorityUrgentGrey } from './assets/SVG - Urgent Priority grey.svg';
-//import { ReactComponent as BacklogIcon } from './assets/Backlog.svg';
+import { ReactComponent as BacklogIcon } from './assets/Backlog.svg';
 import { ReactComponent as CancelledIcon } from './assets/Cancelled.svg';
 import { ReactComponent as InProgressIcon } from './assets/in-progress.svg';
 import { ReactComponent as DoneIcon } from './assets/Done.svg';
